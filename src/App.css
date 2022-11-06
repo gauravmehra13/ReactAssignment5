@@ -1,0 +1,55 @@
+body {
+  background-image: linear-gradient(to right, #B1E1FF 30%, #065f85, #F1F1F1);
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  text-shadow: 10px 10px 10px  rebeccapurple;
+}
+
+h2 {
+  color: white;
+  font-size: xx-large;
+}
+
+pre {
+  font-weight: 600;
+  font-size: xx-large;
+  color: rgb(36, 8, 13);
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  font-size: 30px;
+}
+
+div {
+  text-align: center;
+}
+
+.btn{
+  font-size: xx-large;
+  width: 10%;
+  height: 60px;
+  background-color: black;
+  color: white;
+  border: 8px solid rebeccapurple;
+}
+
+.btn:hover {
+  box-shadow: 5px 5px 5px grey;
+}
+
+.listings {
+  background-color: white;
+  width: 25%;
+  position: relative;
+  left: 740px;
+}
+
+input {
+  width: 250px;
+  height: 30px;
+}
